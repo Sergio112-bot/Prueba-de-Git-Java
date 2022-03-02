@@ -10,6 +10,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		String nombre = "Sergio";
 		System.out.println(nombre + ", Hola mundo de Git");
+		System.out.println("El nombre es: " + nombre);
 	}
 
 }
