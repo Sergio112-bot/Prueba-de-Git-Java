@@ -8,7 +8,8 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola mundo de Git");
+		String nombre = "Sergio";
+		System.out.println(nombre + ", Hola mundo de Git");
 	}
 
 }
